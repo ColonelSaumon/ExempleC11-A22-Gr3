@@ -2,6 +2,6 @@
 #include <conio.h>
 
 int main() {
-	std::cout << "Hello World";
+	std::cout << "Bonjour le Monde !!!";
 	_getch();
 }
